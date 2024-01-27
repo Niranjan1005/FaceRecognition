@@ -5,7 +5,6 @@ import os
 import argparse
 """
 Author: NIRANJAN V
-Date: January 26, 2024
 
 Description:
     This script implements a face recognition system in Python. It comprises three main components: face dataset creation,
