@@ -36,7 +36,7 @@ Usage:
     - Use the '--create_dataset' flag to initiate the face dataset creation process.
 
 Example:
-    $ python script_name.py --dataset_path dataset_folder --trainer_path trainer/trainer.yml --create_dataset
+    $ python FaceDetector.py --dataset_path dataset_folder --trainer_path trainer/trainer.yml --create_dataset
 
 Note: Please make sure to install the required libraries (OpenCV and PIL) before running the script.
 """
